@@ -1,0 +1,32 @@
+bubbleSort - 0 - Tempo: 0.03303503314964473 ms - Memória: -307200 bytes
+bubbleSort - 1 - Tempo: 0.032869533402845263 ms - Memória: -57344 bytes
+bubbleSort - 2 - Tempo: 0.03300553630106151 ms - Memória: 241664 bytes 
+bubbleSort - 3 - Tempo: 0.03284267755225301 ms - Memória: 0 bytes      
+bubbleSort - 4 - Tempo: 0.03290570294484496 ms - Memória: -274432 bytes
+bubbleSort - 5 - Tempo: 0.032910621259361506 ms - Memória: 0 bytes
+bubbleSort - 6 - Tempo: 0.03283011051826179 ms - Memória: 0 bytes
+bubbleSort - 7 - Tempo: 0.03281292784959078 ms - Memória: 0 bytes
+bubbleSort - 8 - Tempo: 0.03283720696344972 ms - Memória: 0 bytes
+bubbleSort - 9 - Tempo: 0.032920574536547065 ms - Memória: 32768 bytes
+quickSort - 0 - Tempo: 4.500197246670723e-05 ms - Memória: 933888 bytes
+quickSort - 1 - Tempo: 4.59267757833004e-05 ms - Memória: 413696 bytes
+quickSort - 2 - Tempo: 4.598707892000675e-05 ms - Memória: 12288 bytes
+quickSort - 3 - Tempo: 4.509766586124897e-05 ms - Memória: 0 bytes
+quickSort - 4 - Tempo: 4.6901870518922806e-05 ms - Memória: 0 bytes
+quickSort - 5 - Tempo: 4.608999006450176e-05 ms - Memória: 8192 bytes
+quickSort - 6 - Tempo: 4.5990338549017906e-05 ms - Memória: 0 bytes
+quickSort - 7 - Tempo: 4.5004067942500114e-05 ms - Memória: 0 bytes
+quickSort - 8 - Tempo: 4.54997643828392e-05 ms - Memória: 73728 bytes
+quickSort - 9 - Tempo: 4.5087188482284546e-05 ms - Memória: 0 bytes
+
+BubbleSort
+Tempo Médio: 0,0329 ms
+Tempo Mediano: 0,0329 ms
+Memória Média: -35,65 KB
+Memória Mediana: 0 KB
+
+QuickSort
+Tempo Médio: 0,00004566 ms
+Tempo Mediano: 0,00004571 ms
+Memória Média: 140,62 KB
+Memória Mediana: 4 KB

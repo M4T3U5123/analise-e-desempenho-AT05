@@ -1,0 +1,40 @@
+BubbleSort - Tempo: 629 ms, Memória: 450 KB
+
+MergeSort - Tempo: 5 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 608 ms, Memória: 450 KB
+
+MergeSort - Tempo: 5 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 621 ms, Memória: 450 KB
+
+MergeSort - Tempo: 6 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 598 ms, Memória: 450 KB
+
+MergeSort - Tempo: 5 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 632 ms, Memória: 450 KB
+
+MergeSort - Tempo: 5 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 606 ms, Memória: 450 KB
+
+MergeSort - Tempo: 6 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 620 ms, Memória: 450 KB
+
+MergeSort - Tempo: 5 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 638 ms, Memória: 450 KB
+
+MergeSort - Tempo: 5 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 614 ms, Memória: 450 KB
+
+MergeSort - Tempo: 5 ms, Memória: 4430 KB
+
+BubbleSort - Tempo: 660 ms, Memória: 450 KB
+
+MergeSort - Tempo: 5 ms, Memória: 4430 KB
+
